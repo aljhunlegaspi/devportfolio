@@ -27,8 +27,8 @@
 }
 
 #lead-content h4{
-    color: #ffffff;
-    font-weight: 500;
-    font-size: 1.75em;
-    margin-bottom: 15px;
+    color: #ffffff!important;
+    font-weight: 500!important;
+    font-size: 1.75em!important;
+    margin-bottom: 15px!important;
 }
